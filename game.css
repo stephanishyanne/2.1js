@@ -1,0 +1,14 @@
+button
+{padding: 16px, 30px;
+border-width: 5px;
+text-align: center;
+align-items: center;
+}
+body{
+    background-color: azure;
+    text-align: center;
+}
+p{
+    text-align: center;
+    align-items: center;
+}
